@@ -107,7 +107,7 @@ Third, there's a really handy shortcut for opening everything within a project d
 
 - **WSL2**: Opening up VSCode from the command line in WSL2 is just as easy as it is in Linux. Just enter `code` which will open VSCode in WSL2.
 
-### Knowledge check
+### Knowledge check.
 
 The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
 
